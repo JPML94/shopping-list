@@ -20,7 +20,7 @@ $ cd shopping-list
 
 Install both server and client modules.
 ```
-$ npm install && npm client-install
+$ npm install && npm run client-install
 ```
 
 ### Create config file
